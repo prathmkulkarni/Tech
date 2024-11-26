@@ -1,2 +1,2 @@
 # TechOut-JobListingPortal
-https://prathmkulkarni.github.io/OnlineBazar/index.html
+https://prathmkulkarni.github.io/Tech/
